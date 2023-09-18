@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto em Express.js API -  Back-End.",
   "main": "index.js",
   "scripts": {
     "start": "nodemon --ignore swagger/ app.js",
