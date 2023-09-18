@@ -1,0 +1,8 @@
+# Arquivos de configuração
+.env
+
+# Diretório node_modules
+node_modules/
+
+# Arquivo de saída da documentação Swagger
+swagger/swagger_output.json
