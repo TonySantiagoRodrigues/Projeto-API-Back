@@ -21,8 +21,5 @@
     "mongoose-to-swagger": "^1.5.1",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.0"
-  },
-  "devDependencies": {
-    "swagger-autogen": "^2.23.5"
   }
 }
